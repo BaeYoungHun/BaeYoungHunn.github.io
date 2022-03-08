@@ -8,3 +8,4 @@
 세번째 안녕
 
 <img src="./imgs/bullet.jpg">
+![img1](./imgs/bullet.jpg)
