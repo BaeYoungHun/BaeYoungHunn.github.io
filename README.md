@@ -187,6 +187,12 @@
 </video>
 
 ## [3주차 작업 결과]
+UI생성
+점수 생성
+아이템 생성(코인, 파워업, 폭탄)  
+적이 플레이어 방향으로 공격을 함  
+적 또는 플레이어가 죽으면 파티클 효과 생성  
+
 <video width="100%" height="100%" controls="controls">
   <source src="/video/3wnck.mp4" type="video/mp4">
 </video>
