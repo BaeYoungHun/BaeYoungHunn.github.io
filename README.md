@@ -171,9 +171,9 @@
 ### 기말고사전 요구사항
 
 ## [1주차 작업 결과]  
-플레이어 이동 
-플레이어 이동시 애니메이션효과
-패럴랙스 배경생성
+플레이어 이동   
+플레이어 이동시 애니메이션효과  
+패럴랙스 배경생성  
 <video width="100%" height="100%" controls="controls">
   <source src="/video/1wnck.mp4" type="video/mp4">
 </video>
@@ -198,6 +198,11 @@ UI생성
 </video>
 
 ## [4주차 작업 결과]
+스테이지 관리 생성  
+보스 생성  
+보스패턴 생성  
+효과음 생성  
+
 <video width="100%" height="100%" controls="controls">
   <source src="/video/4wnck.mp4" type="video/mp4">
 </video>
