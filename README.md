@@ -13,5 +13,5 @@
 서브컨셉3 플레이어는 미세한 컨트롤 능력이 요구됨
 
 # 관련이미지
-<img scr="BaeYoungHun.github.io/imgs/image1" widht="300" height="300">  
-<img scr="imgs/image2.jpg" widht="300" height="300">  
+<img scr="/imgs/image1.jpg" widht="300" height="300">  
+<img scr="/imgs/image2.jpg" widht="300" height="300">  
