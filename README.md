@@ -59,7 +59,7 @@
 |7|BackGround|<img src="/imgs/backgroundA.png" widht="200" height="250"> <img src="/imgs/backgroundB.png" widht="200" height="250"> <img src="/imgs/backgroundC.png" widht="200" height="250">|
 
 ## 2. 파라미터(속성) 뽑아 보기
-## 1)오브젝트 이름: Player
+### 1)오브젝트 이름: Player
 |속성|입력 값|설명|
 |:---:|:---:|:---:|
 |생명|3|플레이어 목숨|
@@ -69,7 +69,7 @@
 |스피드|3|플레이어의 이동속도|
 |폭탄|0|플레이어의 폭탄|
 
-## 2)오브젝트 이름: Enemy
+### 2)오브젝트 이름: Enemy
 |속성|입력 값|설명|
 |:---:|:---:|:---:|
 |Enemy|L, M, S, B|이름에 따라 생성되는 스프라이트|
@@ -78,20 +78,28 @@
 |Enemy Speed|1, 6, 3, 1.5|적의 이동속도|
 |Enemy Bullet|A, B, C, D|적의 총알 구분|
 
-## 3)오브젝트 이름: Bullet
+### 3)오브젝트 이름: Bullet
 |속성|입력 값|설명|
 |:---:|:---:|:---:|
 |이름|BulletA, BulletB |총알 이름|
 |데미지|3, 10 |총알 공격력|
 
-## 5)오브젝트 이름: Item
+### 5)오브젝트 이름: Item
 |속성|입력 값|설명|
 |:---:|:---:|:---:|
 |item_Coin|score +1000| 먹으면 스코어 점수 1000 올라감|
 |item_Power|Power++, maxPower일시 score +300|먹으면 파워 등급이 올라감 맥스파워일때 먹을경우 스코어점수 300이 올라감|
 |item_Boom|Boomr++, maxBoom일시 score +300|먹으면 폭탄 갯수가 올라감 맥스폭탄일때 먹을경우 스코어점수 300이 올라감|
-## 4)오브젝트 이름: Item_Boom
+### 4)오브젝트 이름: Item_Boom
 |속성|입력 값|설명|
 |:---:|:---:|:---:|
 |enemy destory|ture|적 제거|
 |enemy bullet destory|true|모든 적 총알 제거|
+
+## 1. 행동 뽑아 보기
+### 1)오브젝트 이름: Player
+|행동|설명|
+|:---:|:---:|
+|이동|W A S D or 방향키로 플레이어이동|
+|총알 발사|"스페이스바"키로 총알 발사|
+|폭탄|"K"키로 총알 발사|
