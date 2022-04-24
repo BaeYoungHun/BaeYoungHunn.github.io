@@ -46,7 +46,7 @@
 유니티2D 사용
 
 # 게임 시스템 디자인  
-1. 게임 오브젝트 분해  
+## 1. 게임 오브젝트 분해  
 
 |번호|오브젝트 이름|오브젝트 이미지|
 |:---:|:---:|:---:|
@@ -57,3 +57,15 @@
 |5|boom|<img src="/imgs/Boom_Game.png" widht="200" height="200">|
 |6|item|<img src="/imgs/Item_Coin.png" widht="100" height="50"> <img src="/imgs/Item_Power.png" widht="100" height="50"> <img src="/imgs/Item_Boom.png" widht="100" height="50">|
 |7|BackGround|<img src="/imgs/backgroundA.png" widht="200" height="250"> <img src="/imgs/backgroundB.png" widht="200" height="250"> <img src="/imgs/backgroundC.png" widht="200" height="250">|
+
+## 2. 파라미터(속성) 뽑아 보기
+1)오브젝트 이름: Player
+|속성|입력 값|설명|
+|:---:|:---:|:---:|
+|생명|3|플레이어 목숨|
+|점수|0|플레이어의 점수|
+|파워|임시:3|플레이어의 공격력|
+|파워등급|1~3|플레이어의 파워 등급|
+|총알속도|0.3|플레이어의 공격|
+|스피드|3|플레이어의 이동속도|
+|폭탄|0|플레이어의 폭탄|
