@@ -51,4 +51,6 @@
 |번호|오브젝트 이름|오브젝트 이미지|
 |:---:|:---:|:---:|
 |1|Player|<img src="/imgs/player.png" widht="300" height="300">|
+|2|enemy|<img src="/imgs/enemy.png" widht="300" height="300">|
+|3|bullet|<img src="/imgs/bullet.png" widht="300" height="300">|
 
