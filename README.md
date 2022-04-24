@@ -160,4 +160,6 @@
 ### 기말고사전 요구사항
 
 ##[1주차 작업 결과]
-<iframe id="video" widht="500 height"400" src="/video/1wnck.mp4"></iframe>
+<video widht="100%" height="100%" controls="controls">
+  <source = src="/video/1wnck.mp4" type="video/mp4">
+</video>
