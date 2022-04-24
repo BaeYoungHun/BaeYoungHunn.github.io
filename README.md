@@ -96,7 +96,7 @@
 |enemy destory|ture|적 제거|
 |enemy bullet destory|true|모든 적 총알 제거|
 
-## 1. 행동 뽑아 보기
+## 3. 행동 뽑아 보기
 ### 1)오브젝트 이름: Player
 |행동|설명|
 |:---:|:---:|
