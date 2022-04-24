@@ -17,4 +17,4 @@
 <img src="/imgs/image2.jpg" widht="300" height="300">  
 
 # 대표 이미지
-<img src="/imgs/gameimage.png" widht="300" height="300">
+<img src="/imgs/gameimage.png" widht="500" height="500">
