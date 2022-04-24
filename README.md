@@ -14,3 +14,4 @@
 
 # 관련이미지
 <img scr="imgs/image1.jpg" widht="300" height="300">  
+<img scr="imgs/image2.jpg" widht="300" height="300">  
