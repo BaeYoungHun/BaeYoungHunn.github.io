@@ -170,12 +170,18 @@
 -보스 패턴 생성  
 ### 기말고사전 요구사항
 
-## [1주차 작업 결과]
+## [1주차 작업 결과]  
+플레이어 이동 
+플레이어 이동시 애니메이션효과
+패럴랙스 배경생성
 <video width="100%" height="100%" controls="controls">
   <source src="/video/1wnck.mp4" type="video/mp4">
 </video>
 
 ## [2주차 작업 결과]
+적 생성  
+적 피격시 이벤트 발동  
+플레이어 공격 생성  
 <video width="100%" height="100%" controls="controls">
   <source src="/video/2wnck.mp4" type="video/mp4">
 </video>
