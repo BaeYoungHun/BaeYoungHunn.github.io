@@ -142,7 +142,7 @@
 플레이어는 생명이3개, 폭탄을 가질 수 있다.  
 
 # 개발 요구사항 & 흐름도 
-## 1.요구사항(6주 / 1년)]
+## 1.요구사항(중간고사전 / 기말고사전)]
 ### 중간고사전 요구사항
 -플레이어 생성  
 -플레이어 목숨 생성  
@@ -160,6 +160,6 @@
 ### 기말고사전 요구사항
 
 ## [1주차 작업 결과]
-<video widht="100%" height="100%" controls="controls">
-  <source = src="/video/1wnck.mp4" type="video/mp4">
+<video widht="100%" height="100%" controls="controls">  
+  <source = src="/video/1wnck.mp4" type="video/mp4">  
 </video>
