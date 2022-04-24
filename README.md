@@ -202,7 +202,7 @@ UI생성
 스테이지 관리 생성  
 보스 생성  
 보스패턴 생성  
-효과음 생성  
+여러가지 효과음 생성  
 
 <video width="100%" height="100%" controls="controls">
   <source src="/video/4wnck.mp4" type="video/mp4">
