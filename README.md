@@ -53,7 +53,7 @@
 |1|Player|<img src="/imgs/player.png" widht="200" height="200">|  
 |2|enemy|<img src="/imgs/enemy.png" widht="200" height="200">|
 |3|enemyboss|<img src="/imgs/boss.png" widht="200" height="200">|
-|4|bullet|<img src="/imgs/bullet.png" widht="200" height="200">|  
+|4|bullet|<img src="/imgs/bullet.png" widht="100" height="100">|  
 |5|boom|<img src="/imgs/Boom_Game.png" widht="200" height="200">|
 |6|item|<img src="/imgs/Item_Coin.png" widht="100" height="50"> <img src="/imgs/Item_Power.png" widht="100" height="50"> <img src="/imgs/Item_Boom.png" widht="100" height="50">|
 
