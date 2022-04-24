@@ -56,4 +56,4 @@
 |4|bullet|<img src="/imgs/bullet.png" widht="100" height="100">|  
 |5|boom|<img src="/imgs/Boom_Game.png" widht="200" height="200">|
 |6|item|<img src="/imgs/Item_Coin.png" widht="100" height="50"> <img src="/imgs/Item_Power.png" widht="100" height="50"> <img src="/imgs/Item_Boom.png" widht="100" height="50">|
-
+|7|BackGround|<img src="/imgs/backgroundA.png" widht="100" height="150"> <img src="/imgs/backgroundB.png" widht="100" height="150"> <img src="/imgs/backgroundC.png" widht="100" height="150">|
