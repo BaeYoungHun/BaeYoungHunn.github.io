@@ -228,8 +228,8 @@ UI생성
 ## [6주차 작업 결과]  
 팔로워 생성  
 죽은 후 일정시간동안 무적 
-보조무기 생성
-보조무기 총알은 몹을 관통함
+보조무기 생성  
+보조무기 총알은 몹을 관통함  
 
 <video width="100%" height="100%" controls="controls">
   <source src="/video/5wnck.mp4" type="video/mp4">
