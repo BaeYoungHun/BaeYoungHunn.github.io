@@ -217,7 +217,7 @@ UI생성
 <video width="100%" height="100%" controls="controls">
   <source src="/video/4wnck.mp4" type="video/mp4">
 </video>
-## [5주차 작업 결과]
+## [5주차 작업 결과]  
 팔로워 생성  
 죽은 후 일정시간동안 무적  
 <video width="100%" height="100%" controls="controls">
