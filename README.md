@@ -221,7 +221,8 @@ UI생성
 
 ## [5주차 작업 결과]  
 팔로워 생성  
-죽은 후 일정시간동안 무적  
+죽은 후 일정시간동안 무적 
+
 <video width="100%" height="100%" controls="controls">
   <source src="/video/5wnck.mp4" type="video/mp4">
 </video>
