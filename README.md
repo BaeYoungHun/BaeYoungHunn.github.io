@@ -190,7 +190,7 @@
 ## [2주차 작업 결과]
 적 생성  
 적 피격시 이벤트 발동
-적 스폰지역 설정
+적 스폰지역 설정  
 플레이어 공격 생성  
 <video width="100%" height="100%" controls="controls">
   <source src="/video/2wnck.mp4" type="video/mp4">
