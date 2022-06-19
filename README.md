@@ -252,4 +252,4 @@ UI생성
 ## [8주차 작업결과 발표]
 게임 스타트 UI
 
-<img src="/imgs/8.png" widht="200" height="250">
+<img src="/imgs/8wnck.png" widht="200" height="250">
