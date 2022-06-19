@@ -76,7 +76,7 @@
 |3|enemyboss|<img src="/imgs/boss.png" widht="200" height="200">|  
 |4|bullet|<img src="/imgs/bullet.png" widht="100" height="100">|  
 |5|boom|<img src="/imgs/Boom_Game.png" widht="200" height="200">|  
-|6|item|<img src="/imgs/Item_Coin.png" widht="100" height="50"> <img src="/imgs/Item_Power.png" widht="100" height="50"> <img src="/imgs/Item_Boom.png" widht="100" height="50">|  
+|6|item|<img src="/imgs/Item_Coin.png" widht="100" height="50"> <img src="/imgs/Item_Power.png" widht="100" height="50"> <img src="/imgs/Item_Boom.png" widht="100" height="50"> <img src="/imgs/item_life.png" widht="100" height="50"> <img src="/imgs/item_speed.png" widht="100" height="50">|  
 |7|BackGround|<img src="/imgs/backgroundA.png" widht="200" height="250"> <img src="/imgs/backgroundB.png" widht="200" height="250"> <img src="/imgs/backgroundC.png" widht="200" height="250">|  
 |8|Follower|<img src="/imgs/Follower.png" widht="50" height="50">|    
 
@@ -89,7 +89,7 @@
 |점수|0|플레이어의 점수|
 |파워등급|1~6|플레이어의 파워 등급|
 |총알속도|0.3|플레이어의 공격|
-|스피드|3|플레이어의 이동속도|
+|스피드|2|플레이어의 이동속도|
 |폭탄|0|플레이어의 폭탄|
 
 ### 2)오브젝트 이름: Enemy
