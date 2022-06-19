@@ -290,7 +290,7 @@ UI생성
 ## [13주차 작업결과 발표]  
 intro화면 그림화면 추가...  
 보스가 좌우로 움직임  
-<img src="/imgs/intro2.png" widht="300" height="300">  
+<img src="/imgs/intro22.png" widht="300" height="300">  
 ![13wnck](https://user-images.githubusercontent.com/101154099/174483128-99b4446e-1d29-4db3-89d9-0f9a0e1b584a.gif)
 
 ## [14주차 작업결과 발표]  
