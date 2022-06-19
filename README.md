@@ -18,6 +18,8 @@
 8-10.[10주차 작업 결과](#10주차-작업-결과)  
 8-11.[11주차 작업 결과](#11주차-작업-결과)  
 8-12.[12주차 작업 결과](#12주차-작업-결과)  
+8-13.[13주차 작업 결과](#13주차-작업-결과)  
+8-14.[14주차 작업 결과](#14주차-작업-결과)  
 
 
 # [게임명: 너구리fly]
@@ -285,8 +287,15 @@ UI생성
 
 <img src="/imgs/12wnck.png" widht="300" height="300">
 
-## [13주차 작업결과 발표]
+## [13주차 작업결과 발표]  
 intro화면 그림화면 추가...  
 보스가 좌우로 움직임  
 <img src="/imgs/intro2.png" widht="300" height="300">  
 ![13wnck](https://user-images.githubusercontent.com/101154099/174483128-99b4446e-1d29-4db3-89d9-0f9a0e1b584a.gif)
+
+## [14주차 작업결과 발표]  
+아이템 2개 추가  
+보스패턴2개 추가   
+![14_1wnck ](https://user-images.githubusercontent.com/101154099/174484590-fabfaf27-0af5-4711-94cb-03cdb54d17ce.gif)  
+![14_2wnck ](https://user-images.githubusercontent.com/101154099/174484604-438372c2-31e2-43be-bae0-8e691fa88261.gif)  
+![14_3wnck](https://user-images.githubusercontent.com/101154099/174484643-724e2cae-e7c4-48af-b31c-f2a081e6352a.gif)
