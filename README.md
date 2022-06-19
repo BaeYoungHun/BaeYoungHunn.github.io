@@ -74,7 +74,7 @@
 |1|Player|<img src="/imgs/player.png" widht="200" height="200">|  
 |2|enemy|<img src="/imgs/enemy.png" widht="200" height="200"> <img src="/imgs/BEnemy2.png" widht="200" height="200">|  
 |3|enemyboss|<img src="/imgs/boss.png" widht="200" height="200">  <img src="/imgs/boss2.png" widht="200" height="200">|  
-|4|bullet|<img src="/imgs/bullet.png" widht="100" height="100">|  
+|4|bullet|<img src="/imgs/bullet.png" widht="100" height="100">  <img src="/imgs/Enemybulletgohst.png" widht="100" height="100">|  
 |5|boom|<img src="/imgs/Boom_Game.png" widht="200" height="200">|  
 |6|item|<img src="/imgs/Item_Coin.png" widht="100" height="50"> <img src="/imgs/Item_Power.png" widht="100" height="50"> <img src="/imgs/Item_Boom.png" widht="100" height="50"> <img src="/imgs/item_life.png" widht="100" height="50"> <img src="/imgs/item_speed.png" widht="100" height="50">|  
 |7|BackGround|<img src="/imgs/backgroundA.png" widht="200" height="250"> <img src="/imgs/backgroundB.png" widht="200" height="250"> <img src="/imgs/backgroundC.png" widht="200" height="250">|  
