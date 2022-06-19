@@ -298,4 +298,7 @@ intro화면 그림화면 추가...
 보스패턴2개 추가   
 ![14_1wnck ](https://user-images.githubusercontent.com/101154099/174484590-fabfaf27-0af5-4711-94cb-03cdb54d17ce.gif)  
 ![14_2wnck ](https://user-images.githubusercontent.com/101154099/174484604-438372c2-31e2-43be-bae0-8e691fa88261.gif)  
-![14_3wnck](https://user-images.githubusercontent.com/101154099/174484643-724e2cae-e7c4-48af-b31c-f2a081e6352a.gif)
+![14_3wnck](https://user-images.githubusercontent.com/101154099/174484643-724e2cae-e7c4-48af-b31c-f2a081e6352a.gif)  
+
+## [15주차 중간고사 발표]  
+-----------  
