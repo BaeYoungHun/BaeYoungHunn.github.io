@@ -273,9 +273,11 @@ UI생성
 그리고 맵 컨셉에 맞게 몹들이 투명해졌다가 다시 돌아왔다가 반복함
 <img src="/imgs/11wnck.png" widht="300" height="650"><img src="/imgs/11_2wnck.png" widht="200" height="150">
 
-##[12주차 작업결과 발표]
+## [12주차 작업결과 발표]
 몬스터가 물결로 내려옴
 몬스터가 플레이어 위치로 내려옴
 보스 몬스터 추가
 
 ![11wnck](https://user-images.githubusercontent.com/101154099/174482128-7cbf578e-733f-423b-90f2-8939dc584f73.gif)
+
+<img src="/imgs/12wnck.png" widht="300" height="300">
