@@ -72,7 +72,7 @@
 |번호|오브젝트 이름|오브젝트 이미지|
 |:---:|:---:|:---:|
 |1|Player|<img src="/imgs/player.png" widht="200" height="200">|  
-|2|enemy|<img src="/imgs/enemy.png" widht="200" height="200">|  
+|2|enemy|<img src="/imgs/enemy.png" widht="200" height="200"> <img src="/imgs/BEnemy2.png" widht="200" height="200">|  
 |3|enemyboss|<img src="/imgs/boss.png" widht="200" height="200">|  
 |4|bullet|<img src="/imgs/bullet.png" widht="100" height="100">|  
 |5|boom|<img src="/imgs/Boom_Game.png" widht="200" height="200">|  
