@@ -267,4 +267,4 @@ UI생성
 교수님 피드백으로 스테이지를 완전히 바꿈
 
 그리고 맵 컨셉에 맞게 몹들이 투명해졌다가 다시 돌아왔다가 반복함
-<img src="/imgs/11wnck.png" widht="300" height="650"><img src="/imgs/11-2wnck.png" widht="400" height="350">
+<img src="/imgs/11wnck.png" widht="300" height="650"><img src="/imgs/11_2wnck.png" widht="400" height="350">
