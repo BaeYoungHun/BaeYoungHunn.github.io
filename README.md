@@ -257,7 +257,12 @@ UI생성
 게임 스테이지 추가(같은 맵으로 추가했음)
 
 ## [10주차 작업결과 발표]
-씬 Intro 추가와 스테이지2추가, END추가
+씬 Intro 추가와 스테이지2추가, END추가 그리고
 스테이지2 다른분위기로 추가 했지만 실패물
 
 <img src="/imgs/intro.png" widht="300" height="650"><img src="/imgs/End.png" widht="300" height="650"><img src="/imgs/stage2.png" widht="300" height="650">
+
+## [11주차 작업결과 발표]
+교수님 피드백으로 스테이지를 완전히 바꿈
+그리고 맵 컨셉에 맞게 몹들이 투명해졌다가 다시 돌아왔다가 반복함
+<img src="/imgs/11wnck.png" widht="300" height="650">
