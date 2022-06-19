@@ -255,7 +255,8 @@ UI생성
 <img src="/imgs/8wnck.png" widht="200" height="250">
 ## [9주차 작업결과 발표]
 게임 스테이지 추가(같은 맵으로 추가했음)
+
 ## [10주차 작업결과 발표]
 씬 Intro 추가와 스테이지2추가, END추가
 스테이지2 다른분위기로 추가 했지만 실패물
-<img src="/imgs/intro.png" widht="200" height="250"><img src="/imgs/End.png" widht="200" height="250"><img src="/imgs/stage2.png" widht="200" height="250">
+<img src="/imgs/intro.png" widht="300" height="650"><img src="/imgs/End.png" widht="300" height="650"><img src="/imgs/stage2.png" widht="300" height="650">
