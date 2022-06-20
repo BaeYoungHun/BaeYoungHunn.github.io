@@ -18,9 +18,9 @@
 8-10.[10주차 작업 결과](#10주차-작업-결과)  
 8-11.[11주차 작업 결과](#11주차-작업-결과)  
 8-12.[12주차 작업 결과](#12주차-작업-결과)  
-8-13.[13주차 작업 결과](#13주차-작업-결과)  
+8-13.[13주차 작업 결과](#13주차 작업-결과)  
 8-14.[14주차 작업 결과](#14주차-작업-결과)  
-
+8-15.[7주차 중간고사 발표](#15주차-기말고사-발표)  
 
 # [게임명: 너구리fly]
 지구를 지키기 위해 너구리들이 날기 시작하여 적과 싸움
@@ -252,7 +252,7 @@ UI생성
 ## [6주차 작업 결과]  
 팔로워 생성  
 팔로워 총알은 적을 관통함  
-죽은 후 일정시간동안 무적 
+죽은 후 일정시간동안 무적  
 
 <video width="100%" height="100%" controls="controls">
   <source src="/video/5wnck.mp4" type="video/mp4">
@@ -261,25 +261,26 @@ UI생성
 ## [7주차 중간고사 발표]  
 ----  
 
-## [8주차 작업결과 발표]  
+## [8주차 작업 결과]  
 게임 스타트 UI  
 
 <img src="/imgs/8wnck.png" widht="300" height="650">
-## [9주차 작업결과 발표]  
+
+## [9주차 작업 결과]  
 게임 스테이지 추가(같은 맵으로 추가했음)  
 
-## [10주차 작업결과 발표]  
+## [10주차 작업 결과]  
 씬 Intro 추가와 스테이지2추가, END추가 그리고  
 스테이지2 다른분위기로 추가 했지만 실패물  
 
 <img src="/imgs/intro.png" widht="300" height="650"><img src="/imgs/End.png" widht="300" height="650"><img src="/imgs/stage2.png" widht="300" height="650">
 
-## [11주차 작업결과 발표]  
+## [11주차 작업 결과]  
 교수님 피드백으로 스테이지를 완전히 바꿈  
 그리고 맵 컨셉에 맞게 몹들이 투명해졌다가 다시 돌아왔다가 반복함  
 <img src="/imgs/11wnck.png" widht="300" height="650"><img src="/imgs/11_2wnck.png" widht="200" height="150">
 
-## [12주차 작업결과 발표]  
+## [12주차 작업 결과]  
 몬스터가 물결로 내려옴  
 몬스터가 플레이어 위치로 내려옴  
 보스 몬스터 추가  
@@ -288,18 +289,18 @@ UI생성
 
 <img src="/imgs/12wnck.png" widht="300" height="300">
 
-## [13주차 작업결과 발표]  
+## [13주차 작업 결과]  
 intro화면 그림화면 추가...  
 보스가 좌우로 움직임  
 <img src="/imgs/intro22.png" widht="300" height="300">  
 ![13wnck](https://user-images.githubusercontent.com/101154099/174483128-99b4446e-1d29-4db3-89d9-0f9a0e1b584a.gif)
 
-## [14주차 작업결과 발표]  
+## [14주차 작업 결과]  
 아이템 2개 추가  
 보스패턴2개 추가   
 ![14_1wnck ](https://user-images.githubusercontent.com/101154099/174484590-fabfaf27-0af5-4711-94cb-03cdb54d17ce.gif)  
 ![14_2wnck ](https://user-images.githubusercontent.com/101154099/174484604-438372c2-31e2-43be-bae0-8e691fa88261.gif)  
 ![14_3wnck](https://user-images.githubusercontent.com/101154099/174484643-724e2cae-e7c4-48af-b31c-f2a081e6352a.gif)  
 
-## [15주차 중간고사 발표]  
+## [15주차 기말고사 발표]  
 -----------  
